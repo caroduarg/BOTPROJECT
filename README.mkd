@@ -1,0 +1,27 @@
+# Clone pro..
+```bash
+git clone URL
+```
+
+## Create VENV
+```bash
+python -m venv name_project
+```
+
+## Act
+### PowerShell
+```bash
+    .basicbot/Scripts/Activate.ps1
+```
+
+#### Windows Bash
+```bash
+source .basicbot/Scripts/activate
+```
+
+## Install Depend...
+```bash
+```
+
+## Create .ENV
+```bash
