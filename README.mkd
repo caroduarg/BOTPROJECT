@@ -11,12 +11,12 @@ python -m venv name_project
 ## Act
 ### PowerShell
 ```bash
-    .basicbot/Scripts/Activate.ps1
+    .botproject/Scripts/Activate.ps1
 ```
 
 #### Windows Bash
 ```bash
-source .basicbot/Scripts/activate
+source .botproject/Scripts/activate
 ```
 
 ## Install Depend...
